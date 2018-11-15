@@ -1,0 +1,6 @@
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\bin\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.deps.json
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\bin\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.dll
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\obj\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.csproj.CoreCompileInputs.cache
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\obj\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.AssemblyInfoInputs.cache
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\obj\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.AssemblyInfo.cs
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\obj\Debug\netstandard2.0\NativoPlusStudio.RequestResponsePattern.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.deps.json
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.runtimeconfig.json
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.runtimeconfig.dev.json
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\bin\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.dll
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\obj\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.csprojAssemblyReference.cache
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\obj\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.csproj.CoreCompileInputs.cache
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\obj\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.AssemblyInfoInputs.cache
+C:\Users\jcolon\source\repos\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePatternTest\obj\Debug\netcoreapp2.1\NativoPlusStudio.RequestResponsePatternTest.AssemblyInfo.cs
