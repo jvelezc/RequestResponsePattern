@@ -4137,11 +4137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj",
+      "projectUniqueName": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj",
       "projectName": "NativoPlusStudio.RequestResponsePattern",
-      "projectPath": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj",
+      "projectPath": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj",
       "packagesPath": "C:\\Users\\jcolon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\obj\\",
+      "outputPath": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

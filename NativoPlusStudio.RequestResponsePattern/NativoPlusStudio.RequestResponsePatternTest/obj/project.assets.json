@@ -6901,11 +6901,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\NativoPlusStudio.RequestResponsePatternTest.csproj",
+      "projectUniqueName": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\NativoPlusStudio.RequestResponsePatternTest.csproj",
       "projectName": "NativoPlusStudio.RequestResponsePatternTest",
-      "projectPath": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\NativoPlusStudio.RequestResponsePatternTest.csproj",
+      "projectPath": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\NativoPlusStudio.RequestResponsePatternTest.csproj",
       "packagesPath": "C:\\Users\\jcolon\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\obj\\",
+      "outputPath": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePatternTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6924,8 +6924,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj": {
-              "projectPath": "C:\\Users\\jcolon\\source\\repos\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj"
+            "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj": {
+              "projectPath": "C:\\Users\\jcolon\\Documents\\GitHub\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj"
             }
           }
         }

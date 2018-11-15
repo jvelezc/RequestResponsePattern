@@ -4,6 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>This is an opinionated approach that NativoPlus Studio handles request response pattern</Description>
+    <PackageProjectUrl>https://github.com/jvelezc/RequestResponsePattern</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/jvelezc/RequestResponsePattern</PackageLicenseUrl>
+    <Copyright>Jose Velez</Copyright>
+    <RepositoryUrl>https://github.com/jvelezc/RequestResponsePattern</RepositoryUrl>
+    <RepositoryType>GitHub</RepositoryType>
+    <PackageTags>RequestResponse</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
