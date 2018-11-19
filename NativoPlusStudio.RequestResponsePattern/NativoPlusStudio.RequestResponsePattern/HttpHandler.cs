@@ -6,6 +6,7 @@ using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Serilog;
 using System.Net;
+using System.Collections.Generic;
 #endregion
 namespace NativoPlusStudio.RequestResponsePattern
 {
@@ -45,17 +46,12 @@ namespace NativoPlusStudio.RequestResponsePattern
 
             if (model.Response != null)
             {
-                return new JsonResult(model.Response)
-                {
-                    StatusCode = (int)model.HttpStatusCode
-                };
+                return new OkObjectResult(model.Response);
             }
-
             return new StatusCodeResult((int)model.HttpStatusCode);
-
         }
 
-        protected abstract Task<HttpResponse> HandleAsync(TRequest input, CancellationToken cancellationToken);
+        protected abstract Task<HttpResponse> HandleAsync(TRequest input, CancellationToken cancellationToken = default(CancellationToken));
         protected HttpResponse Ok<TResponse>(TResponse response) where TResponse : class
         {
             if (response == null)
@@ -65,6 +61,8 @@ namespace NativoPlusStudio.RequestResponsePattern
 
             return new HttpResponse
             {
+                //ErrorMessage =string.Empty,
+                //Error = new List<ValidationFailure>
                 Response = response,
                 HttpStatusCode = HttpStatusCode.OK
             };
