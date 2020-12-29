@@ -4,7 +4,6 @@
     <id>NativoPlusStudio.RequestResponsePattern</id>
     <version>1.0.0</version>
     <authors>NativoPlusStudio.RequestResponsePattern</authors>
-    <owners>NativoPlusStudio.RequestResponsePattern</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <licenseUrl>https://github.com/jvelezc/RequestResponsePattern</licenseUrl>
     <projectUrl>https://github.com/jvelezc/RequestResponsePattern</projectUrl>
@@ -14,16 +13,16 @@
     <repository type="GitHub" url="https://github.com/jvelezc/RequestResponsePattern" />
     <dependencies>
       <group targetFramework=".NETStandard2.0">
-        <dependency id="FluentValidation" version="8.0.100" exclude="Build,Analyzers" />
-        <dependency id="MediatR" version="5.1.0" exclude="Build,Analyzers" />
-        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.1.3" exclude="Build,Analyzers" />
-        <dependency id="Microsoft.AspNetCore.Mvc.Formatters.Json" version="2.1.3" exclude="Build,Analyzers" />
-        <dependency id="Serilog" version="2.7.1" exclude="Build,Analyzers" />
+        <dependency id="FluentValidation" version="9.3.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.2.5" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Formatters.Json" version="2.2.0" exclude="Build,Analyzers" />
+        <dependency id="Serilog" version="2.10.0" exclude="Build,Analyzers" />
         <dependency id="Serilog.Sinks.Console" version="3.1.1" exclude="Build,Analyzers" />
       </group>
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\jcolon\Documents\GitHub\RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\bin\Release\netstandard2.0\NativoPlusStudio.RequestResponsePattern.dll" target="lib\netstandard2.0\NativoPlusStudio.RequestResponsePattern.dll" />
+    <file src="C:\RRP\RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\NativoPlusStudio.RequestResponsePattern\bin\Release\netstandard2.0\NativoPlusStudio.RequestResponsePattern.dll" target="lib\netstandard2.0\NativoPlusStudio.RequestResponsePattern.dll" />
   </files>
 </package>
