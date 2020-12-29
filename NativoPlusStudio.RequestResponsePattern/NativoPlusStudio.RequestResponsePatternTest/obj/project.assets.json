@@ -1510,7 +1510,7 @@
           "lib/netcoreapp2.1/_._": {}
         }
       },
-      "NativoPlusStudio.RequestResponsePattern/1.1.0.5": {
+      "NativoPlusStudio.RequestResponsePattern/1.1.0.6": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -5079,7 +5079,7 @@
         "version.txt"
       ]
     },
-    "NativoPlusStudio.RequestResponsePattern/1.1.0.5": {
+    "NativoPlusStudio.RequestResponsePattern/1.1.0.6": {
       "type": "project",
       "path": "../NativoPlusStudio.RequestResponsePattern/NativoPlusStudio.RequestResponsePattern.csproj",
       "msbuildProject": "../NativoPlusStudio.RequestResponsePattern/NativoPlusStudio.RequestResponsePattern.csproj"
@@ -5092,7 +5092,7 @@
       "MediatR >= 9.0.0",
       "Microsoft.NET.Test.Sdk >= 16.8.3",
       "Microsoft.NETCore.App >= 2.1.0",
-      "NativoPlusStudio.RequestResponsePattern >= 1.1.0.5"
+      "NativoPlusStudio.RequestResponsePattern >= 1.1.0.6"
     ]
   },
   "packageFolders": {
