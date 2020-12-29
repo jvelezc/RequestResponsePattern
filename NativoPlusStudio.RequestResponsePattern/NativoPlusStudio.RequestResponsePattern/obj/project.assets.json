@@ -3719,7 +3719,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.1.0.6",
+    "version": "1.1.0.7",
     "restore": {
       "projectUniqueName": "C:\\RRP\\RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern\\NativoPlusStudio.RequestResponsePattern.csproj",
       "projectName": "NativoPlusStudio.RequestResponsePattern",
